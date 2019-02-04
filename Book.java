@@ -44,7 +44,7 @@ class Book
     {
         System.out.println("Author: " + author);
     }
-    method print title
+    
     public void printTitle()
     {
         System.out.println("Title: " + title);
