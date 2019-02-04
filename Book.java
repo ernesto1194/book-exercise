@@ -30,7 +30,12 @@ class Book
     public String getAuthor()
     {
         return author;
-    }    
+    }   
+    
+    public String getTitle()
+    {
+     return title;   
+    }
 }
 
 
