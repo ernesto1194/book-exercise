@@ -23,4 +23,17 @@ class Book
     }
 
     // Add the methods here ...
+    /**
+     * Provide access to the string holding the author's name
+     * @return author 
+     */
+    public String getAuthor()
+    {
+        return author;
+    }    
 }
+
+
+
+
+
